@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building Rust Actix Microservices
+- 🌱 I’m currently learning Effective Modern C++ and Cloud Computing (e.g. AWS, Kubernetes)
+- 📫 How to reach me: mian.wu515@duke.edu
+- 😄 Pronouns: She | Her
+
 <!--
 **mianwu515/mianwu515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
