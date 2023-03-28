@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/mianwu515">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianwu515&theme=light&hide_langs_below=1&hide=javascript,HTML,TypeScript,SCSS,CSS,CMake,C++" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianwu515&theme=light&hide_langs_below=1&hide=Jupyter Notebook,HTML,TypeScript,SCSS,CSS" />
 </a>
 
 ## Github Stats
