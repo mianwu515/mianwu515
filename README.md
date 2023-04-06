@@ -4,7 +4,7 @@
 [![LinkedIn: Mian Wu](https://img.shields.io/badge/mianwu515-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mian-wu/)](https://www.linkedin.com/in/mian-wu/)
 
 - 🔭 I’m currently working on building Rust Actix Microservices
-- 🌱 I’m currently learning Effective Modern C++ and Cloud Computing (e.g. AWS, Kubernetes)
+- 🌱 I’m currently learning Effective Modern C++ and Cloud Computing (e.g. AWS Lambda, AWS EC2, AWS EFS, AWS ECR, Kubernetes)
 - 📫 How to reach me: mian.wu515@duke.edu
 - 😄 Pronouns: She | Her
 
