@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://github.com/mianwu515">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianwu515&theme=light&hide_langs_below=1&hide=JupyterNotebook,HTML,SCSS,CSS,CMake" />
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 
 ## Github Stats
 [![Mian's Github Stats](https://github-readme-stats.vercel.app/api?username=mianwu515&count_private=true&theme=default&show_icons=true)](https://github.com/mianwu515)
+
+-->
